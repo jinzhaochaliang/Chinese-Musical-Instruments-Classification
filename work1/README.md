@@ -26,4 +26,4 @@
 >    CUDA_VISIBLE_DEVICES=$GPU_ID python $BACKEND/main_pytorch_model.py inference_testing_data --workspace=$WORKSPACE --iteration=3000 --cuda
 >    ```
 
-> 地址https://github.com/jinzhaochaliang/Chinese-Musical-Instruments-Classification/tree/master/work1
+> [具体地址](https://github.com/jinzhaochaliang/Chinese-Musical-Instruments-Classification/tree/master/work1)

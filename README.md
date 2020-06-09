@@ -12,7 +12,7 @@
 
 ## 介绍视频
 
-> <iframe src="//player.bilibili.com/player.html?aid=795902578&bvid=BV1PC4y1a7Yc&cid=200341022&page=1" scrolling="no" frameborder="no" width="95%" height="600"> </iframe>
+> <iframe src="//player.bilibili.com/player.html?aid=795902578&bvid=BV1PC4y1a7Yc&cid=200341022&page=1" scrolling="no" frameborder="no" width="100%" height="600"> </iframe>
 
 ## 研究内容
 
