@@ -12,7 +12,8 @@
 
 ## 介绍视频
 
-<iframe src="//player.bilibili.com/player.html?aid=795902578&bvid=BV1PC4y1a7Yc&cid=200341022&page=1" scrolling="no" frameborder="no" width="95%" height="600"> </iframe>
+> <iframe src="//player.bilibili.com/player.html?aid=795902578&bvid=BV1PC4y1a7Yc&cid=200341022&page=1" scrolling="no" frameborder="no" width="95%" height="600"> </iframe>
+
 ## 研究内容
 
 > * 对中国传统乐器数据库进行标注和整理
@@ -57,5 +58,7 @@
 
 
 > 我们开放了中国传统乐器音频数据库和整个实验的Python源代码以供进一步研究。
+>
+> 本文地址https://github.com/jinzhaochaliang/Chinese-Musical-Instruments-Classification
 >
 > 部分代码参考自https://github.com/qiuqiangkong/dcase2018_task2.git
