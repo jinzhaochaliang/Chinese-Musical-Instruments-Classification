@@ -10,10 +10,9 @@
 >
 > [论文](paper.pdf)
 
-## 测试视频
+## 介绍视频
 
 <iframe src="//player.bilibili.com/player.html?aid=795902578&bvid=BV1PC4y1a7Yc&cid=200341022&page=1" scrolling="no" frameborder="no" width="95%" height="600"> </iframe>
-
 ## 研究内容
 
 > * 对中国传统乐器数据库进行标注和整理
